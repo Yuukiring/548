@@ -1,0 +1,6 @@
+*.ini
+.vscode*/
+/out/build
+/.vs
+build/
+.DS_Store
